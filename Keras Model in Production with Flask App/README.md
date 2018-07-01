@@ -1,5 +1,5 @@
 # How to Deploy a Keras Model to Production
-
+Read "instructions.ipynb" for more details on this.
 
 ## Overview
  
